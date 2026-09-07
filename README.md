@@ -1,5 +1,7 @@
 ## 👋 สวัสดีครับ
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20space!&fontSize=50)
+
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Header Animation" width="60"/>
 </p>
@@ -14,6 +16,14 @@
 </p>
 
 สวัสดีครับ อาจารย์และเพื่อนๆทุกคน ครั้งนี้ผมลองใช้ github ดูเป็นครั้งแรก ก่อนหน้านี้เคยเห็นเพื่อนใช้มาหลายคน แต่ผมยังไม่เคยได้ลองใช้เองสักที ตอนนี้จะลองใช้ดูเรื่อยๆดูนะครับ 
+
+---
+
+### 📌 ข้อมูลส่วนตัวและสถิติ (Overview & Stats)
+
+| 👤 เกี่ยวกับตัวผม (About Me) | 📊 สถิติ GitHub (GitHub Stats) |
+| :--- | :--- |
+| 🎓 **การศึกษา:** มหาวิทยาลัยนเรศวร (Naresuan University)<br>🌱 **กำลังเรียนรู้:** Markdown, Git, Web Development<br>💬 **พูดคุยได้เกี่ยวกับ:** Java, React, Frontend<br>📫 **การติดต่อ:** Facebook / YouTube | <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/> |
 
 ---
 
@@ -39,7 +49,12 @@
 
 ---
 
-### 📌 เกี่ยวกับตัวผม (About Me)
+### 📈 สถิติต่างๆ เพิ่มเติม (More Statistics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamNhatMinh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamNhatMinh&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 - 🔭 **กำลังศึกษาอยู่ที่:** มหาวิทยาลัยนเรศวร (Naresuan University)
 - 🌱 **กำลังศึกษาและเรียนรู้เรื่อง:** ภาษา Markdown และเทคโนโลยีอื่นๆ
