@@ -23,7 +23,7 @@
 
 | 👤 เกี่ยวกับตัวผม (About Me) | 📊 สถิติ GitHub (GitHub Stats) |
 | :--- | :--- |
-| 🎓 **การศึกษา:** มหาวิทยาลัยนเรศวร (Naresuan University)<br>🌱 **กำลังเรียนรู้:** Markdown, Git, Web Development<br>💬 **พูดคุยได้เกี่ยวกับ:** Java, React, Frontend<br>📫 **การติดต่อ:** Facebook / YouTube | <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/> |
+| 🎓 **การศึกษา:** มหาวิทยาลัยนเรศวร (Naresuan University)<br>🌱 **กำลังเรียนรู้:** Markdown, Git, Web Development<br>💬 **พูดคุยได้เกี่ยวกับ:** Java, React, Frontend<br>📫 **การติดต่อ:** Facebook / YouTube | <img src="https://github-readme-stats-fast.vercel.app/api?username=LamNhatMinh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/>|
 
 ---
 
@@ -52,7 +52,7 @@
 ### 📈 สถิติต่างๆ เพิ่มเติม (More Statistics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamNhatMinh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamNhatMinh&layout=compact&theme=radical&hide_border=true" alt=>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamNhatMinh&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
